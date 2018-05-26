@@ -1,0 +1,60 @@
+/**
+ * This class is an example of a custom geocoder. It provides geocoding through the OpenStreetMap Nominatim service.
+ * @alias OpenStreetMapNominatimGeocoder
+ * @constructor
+ */
+function OpenStreetMapNominatimGeocoder() {
+}
+
+/**
+ * The function called to geocode using this geocoder service.
+ *
+ * @param {String} input The query to be sent to the geocoder service
+ * @returns {Promise<GeocoderResult[]>}
+ */
+OpenStreetMapNominatimGeocoder.prototype.geocode = function (input) {
+    var endpoint = 'https://nominatim.openstreetmap.org/search?';
+    var query = 'format=json&accept-language=zh&q=' + input;
+    var requestString = endpoint + query;
+    return Cesium.loadJson(requestString)
+        .then(function (results) {
+            console.log(results);
+            var bboxDegrees;
+            return results.map(function (resultObject) {
+                console.log(resultObject);
+                bboxDegrees = resultObject.boundingbox;
+                return {
+                    displayName: resultObject.display_name,
+                    destination: Cesium.Rectangle.fromDegrees(
+                        bboxDegrees[2],
+                        bboxDegrees[0],
+                        bboxDegrees[3],
+                        bboxDegrees[1]
+                    )
+                };
+            });
+        });
+};
+
+function BaiduGeocoder() {}
+
+BaiduGeocoder.prototype.geocode = function (input) {
+    var endpoint = 'http://api.map.baidu.com/geocoder/v2/?';
+    var query = 'output=json&ak=YACiG5ylHdlZid1NmishVdgzk9UkzBrh&address=' + input;
+    var requestString = endpoint + query;
+    return Cesium.loadJsonp(requestString).then(function(results) {
+        console.log(results);
+        return results.map(function (resultObject) {
+            console.log(resultObject);
+            return {
+                //displayName: resultObject.display_name,
+                destination: Cesium.Cartesian3.fromDegrees(resultObject.lng, resultObject.lat)
+            };
+        });
+    });
+};
+
+var viewer = new Cesium.Viewer('cesiumContainer', {
+    geocoder: new OpenStreetMapNominatimGeocoder()
+});
+

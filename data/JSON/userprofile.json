@@ -1,0 +1,42 @@
+{
+	"results": [
+		{
+		 	"id": 1,
+			"userid": "admin",
+			"name": "管理员",
+			"password": "666666",
+			"email": "admin@swpis.com",
+   			"phone": "13888888888",
+			"orgName": "国电广西",
+			"title": "管理员",
+			"image": "resources/images/user-profile/10.png",
+			"role": 0,
+			"permission":["demo"]
+		},
+		{
+			"userid": "Y10101",
+			"name": "张三",
+			"password": "666666",
+			"email": "wangshihua@swpis.com",
+   			"phone": "13888888888",
+			"orgName": "国电广西",
+			"title": "经理",
+			"image": "resources/images/user-profile/2.png",
+			"role": 1,
+			"permission":["demo"]
+		},
+		{
+			"userid": "Y10301",
+			"name": "王世华",
+			"password": "666666",
+			"email": "wangshihua@swpis.com",
+   			"phone": "13888888888",
+			"orgName": "长委监理",
+			"title": "总监",
+			"image": "resources/images/user-profile/2.png",
+			"role": 1,
+			"permission":["demo"]
+		}
+		
+	]
+}

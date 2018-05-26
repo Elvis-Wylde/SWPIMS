@@ -1,0 +1,8 @@
+[
+{"id":"1","name":"六坪顶风电场","lon":110.6324,"lat":22.8548,"GCZTZ":46870.86,"JHZJ":35157.25,"SYZJ":30157.25,"planPercent":75.01,"completePercent":85.79},
+{"id":"2","name":"灌阳风电场","lon":111.1125,"lat":25.4712,"GCZTZ":46110.32,"JHZJ":40521.11,"SYZJ":38156.21,"planPercent":87.88,"completePercent":94.16},
+{"id":"3","name":"全州风电场","lon":110.9458,"lat":26.0863,"GCZTZ":45023.1,"JHZJ":45023.1,"SYZJ":36785.21,"planPercent":100,"completePercent":81.70},
+{"id":"4","name":"恭城风电场","lon":110.8456,"lat":24.9252,"GCZTZ":53200,"JHZJ":33021.2,"SYZJ":30517.52,"planPercent":62.07,"completePercent":92.42},
+{"id":"5","name":"正江岭风电场","lon":111.1756,"lat":25.4577,"GCZTZ":53500,"JHZJ":0,"SYZJ":0,"planPercent":0,"completePercent":0},
+{"id":"6","name":"大容山风电场","lon":110.6424,"lat":22.4841,"GCZTZ":38150.55,"JHZJ":38150.55,"SYZJ":38150.55,"planPercent":100,"completePercent":100}
+]

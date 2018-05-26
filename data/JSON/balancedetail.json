@@ -1,0 +1,80 @@
+{
+"children":
+[
+{"exid": "A", "itemname": "升压站工程", "HTBL": "9", "SBHTE": "3164.1525", "SFHTE": "2812.58", "SFBL": "8", "expanded": true,"children":[
+{"exid": "11", "itemname": "升压站场平及支挡", "HTBL": "4", "SBHTE": "1406.29", "SGXX": true, "ZLCL": true, "ZLSYJC": true, "ZLGXPD": true, "DQKXJC": true, "DQSY": true, "TXZL": true, "TXAQ": true, "TXFA": true, "YPZL": true, "YLSX": true, "SFHTE": "1406.29", "SFBL": "4", "JSSJ": "2017/9/1", "KYJS": "0", "leaf": true},
+{
+"exid": "12", "itemname": "升压站土建工程", "HTBL": "3", "SBHTE": "1054.7175", "SGXX": true, "ZLCL": true, "ZLSYJC": true, "ZLGXPD": true, "DQKXJC": true, "DQSY": true, "TXZL": true, "TXAQ": true, "TXFA": true, "YPZL": true, "YLSX": true, "SFHTE": "1054.7175", "SFBL": "3", "JSSJ": "2017/10/15", "KYJS": "0", "leaf": true
+},
+{
+"exid": "13", "itemname": "升压站安装", "HTBL": "1", "SBHTE": "351.5725", "SGXX": true, "ZLCL": true, "ZLSYJC": true, "ZLGXPD": true, "DQKXJC": true, "DQSY": true, "TXZL": true, "TXAQ": true, "TXFA": true, "YPZL": true, "YLSX": true, "SFHTE": "351.5725", "SFBL": "1", "JSSJ": "2017/12/1", "KYJS": "0", "leaf": true
+},
+{
+"exid": "14", "itemname": "升压站送电", "HTBL": "1", "SBHTE": "351.5725", "SGXX": true, "ZLCL": true, "ZLSYJC": true, "ZLGXPD": true, "DQKXJC": true, "DQSY": true, "TXZL": true, "TXAQ": true, "TXFA": true, "YPZL": true, "YLSX": true, "SFHTE": "0", "SFBL": "0", "KYJS": "1", "leaf": true}
+]},
+{
+"exid": "B", "itemname": "风电场工程", "HTBL": "78", "SBHTE": "27422.655", "SFHTE": "24610.075", "SFBL": "70", "expanded": true,"children":[
+{"exid": "21", "itemname": "一号线", "HTBL": "15", "SBHTE": "5273.5875", "SFHTE": "2461.0075", "SFBL": "7", "expanded": true,"children":[
+{"exid": "211", "itemname": "一号线道路平台", "HTBL": "5", "SBHTE": "1757.8625", "SGXX": true, "ZLCL": true, "ZLSYJC": true, "ZLGXPD": true, "DQKXJC": true, "DQSY": true, "TXZL": true, "TXAQ": true, "TXFA": true, "YPZL": true, "YLSX": true, "SFHTE": "1757.8625", "SFBL": "5", "JSSJ": "2017/9/1", "KYJS": "0", "leaf": true},
+{
+"exid": "212", "itemname": "一号线风机基础浇筑", "HTBL": "3", "SBHTE": "1054.7175", "SGXX": true, "ZLCL": true, "ZLSYJC": true, "ZLGXPD": true, "DQKXJC": true, "DQSY": true, "TXZL": true, "TXAQ": true, "TXFA": true, "YPZL": true, "YLSX": true, "SFHTE": "1054.7175", "SFBL": "3", "JSSJ": "2017/10/15", "KYJS": "0", "leaf": true
+},
+{
+"exid": "213", "itemname": "一号线风机吊装", "HTBL": "5", "SBHTE": "1757.8625", "SGXX": true, "ZLCL": true, "ZLSYJC": true, "ZLGXPD": false, "DQKXJC": true, "DQSY": true, "TXZL": true, "TXAQ": true, "TXFA": false, "YPZL": true, "YLSX": false, "SFHTE": "0", "SFBL": "0", "KYJS": "2", "leaf": true},
+{
+"exid": "214", "itemname": "一号线集成线路", "HTBL": "2", "SBHTE": "703.145", "SGXX": true, "ZLCL": true, "ZLSYJC": true, "ZLGXPD": true, "DQKXJC": true, "DQSY": true, "TXZL": true, "TXAQ": true, "TXFA": true, "YPZL": true, "YLSX": true, "SFHTE": "0", "SFBL": "0", "KYJS": "2", "leaf": true}
+]},
+{
+"exid": "22", "itemname": "二号线", "HTBL": "18", "SBHTE": "6328.305", "SFHTE": "6328.305", "SFBL": "18", "expanded": true,"children":[
+{"exid": "221", "itemname": "二号线道路平台", "HTBL": "9", "SBHTE": "3164.1525", "SGXX": true, "ZLCL": true, "ZLSYJC": true, "ZLGXPD": true, "DQKXJC": true, "DQSY": true, "TXZL": true, "TXAQ": true, "TXFA": true, "YPZL": true, "YLSX": true, "SFHTE": "3164.1525", "SFBL": "9", "JSSJ": "2017/9/1", "KYJS": "0", "leaf": true},
+{
+"exid": "222", "itemname": "二号线风机基础浇筑", "HTBL": "5", "SBHTE": "1757.8625", "SGXX": true, "ZLCL": true, "ZLSYJC": true, "ZLGXPD": true, "DQKXJC": true, "DQSY": true, "TXZL": true, "TXAQ": true, "TXFA": true, "YPZL": true, "YLSX": true, "SFHTE": "1757.8625", "SFBL": "5", "JSSJ": "2017/10/15", "KYJS": "0", "leaf": true
+},
+{
+"exid": "223", "itemname": "二号线风机吊装", "HTBL": "2", "SBHTE": "703.145", "SGXX": true, "ZLCL": true, "ZLSYJC": true, "ZLGXPD": true, "DQKXJC": true, "DQSY": true, "TXZL": true, "TXAQ": true, "TXFA": true, "YPZL": true, "YLSX": true, "SFHTE": "703.145", "SFBL": "2", "JSSJ": "2017/12/1", "KYJS": "0", "leaf": true
+},
+{
+"exid": "224", "itemname": "二号线集成线路", "HTBL": "2", "SBHTE": "703.145", "SGXX": true, "ZLCL": true, "ZLSYJC": true, "ZLGXPD": true, "DQKXJC": true, "DQSY": true, "TXZL": true, "TXAQ": true, "TXFA": true, "YPZL": true, "YLSX": true, "SFHTE": "703.145", "SFBL": "2", "JSSJ": "2018/1/1", "KYJS": "0", "leaf": true}
+]},
+{
+"exid": "23", "itemname": "三号线", "HTBL": "21", "SBHTE": "7383.0225", "SFHTE": "7383.0225", "SFBL": "21", "expanded": true,"children":[
+{"exid": "231", "itemname": "三号线道路平台", "HTBL": "9", "SBHTE": "3164.1525", "SGXX": true, "ZLCL": true, "ZLSYJC": true, "ZLGXPD": true, "DQKXJC": true, "DQSY": true, "TXZL": true, "TXAQ": true, "TXFA": true, "YPZL": true, "YLSX": true, "SFHTE": "3164.1525", "SFBL": "9", "JSSJ": "2017/9/1", "KYJS": "0", "leaf": true},
+{
+"exid": "232", "itemname": "三号线风机基础浇筑", "HTBL": "5", "SBHTE": "1757.8625", "SGXX": true, "ZLCL": true, "ZLSYJC": true, "ZLGXPD": true, "DQKXJC": true, "DQSY": true, "TXZL": true, "TXAQ": true, "TXFA": true, "YPZL": true, "YLSX": true, "SFHTE": "1757.8625", "SFBL": "5", "JSSJ": "2017/10/15", "KYJS": "0", "leaf": true
+},
+{
+"exid": "233", "itemname": "三号线风机吊装", "HTBL": "5", "SBHTE": "1757.8625", "SGXX": true, "ZLCL": true, "ZLSYJC": true, "ZLGXPD": true, "DQKXJC": true, "DQSY": true, "TXZL": true, "TXAQ": true, "TXFA": true, "YPZL": true, "YLSX": true, "SFHTE": "1757.8625", "SFBL": "5", "JSSJ": "2017/12/1", "KYJS": "0", "leaf": true
+},
+{
+"exid": "234", "itemname": "三号线集成线路", "HTBL": "2", "SBHTE": "703.145", "SGXX": true, "ZLCL": true, "ZLSYJC": true, "ZLGXPD": true, "DQKXJC": true, "DQSY": true, "TXZL": true, "TXAQ": true, "TXFA": true, "YPZL": true, "YLSX": true, "SFHTE": "703.145", "SFBL": "2", "JSSJ": "2018/1/1", "KYJS": "0", "leaf": true}
+]},
+{
+"exid": "24", "itemname": "四号线", "HTBL": "24", "SBHTE": "8437.74", "SFHTE": "8437.74", "SFBL": "24", "expanded": true, "children":[
+{"exid": "241", "itemname": "四号线道路平台", "HTBL": "10", "SBHTE": "3515.725", "SGXX": true, "ZLCL": true, "ZLSYJC": true, "ZLGXPD": true, "DQKXJC": true, "DQSY": true, "TXZL": true, "TXAQ": true, "TXFA": true, "YPZL": true, "YLSX": true, "SFHTE": "3515.725", "SFBL": "10", "JSSJ": "2017/9/1", "KYJS": "0", "leaf": true},
+{
+"exid": "242", "itemname": "四号线风机基础浇筑", "HTBL": "8", "SBHTE": "2812.58", "SGXX": true, "ZLCL": true, "ZLSYJC": true, "ZLGXPD": true, "DQKXJC": true, "DQSY": true, "TXZL": true, "TXAQ": true, "TXFA": true, "YPZL": true, "YLSX": true, "SFHTE": "2812.58", "SFBL": "8", "JSSJ": "2017/10/15", "KYJS": "0", "leaf": true
+},
+{
+"exid": "243", "itemname": "四号线风机吊装", "HTBL": "3", "SBHTE": "1054.7175", "SGXX": true, "ZLCL": true, "ZLSYJC": true, "ZLGXPD": true, "DQKXJC": true, "DQSY": true, "TXZL": true, "TXAQ": true, "TXFA": true, "YPZL": true, "YLSX": true, "SFHTE": "1054.7175", "SFBL": "3", "JSSJ": "2017/12/1", "KYJS": "0", "leaf": true
+},
+{
+"exid": "244", "itemname": "四号线集成线路", "HTBL": "3", "SBHTE": "1054.7175", "SGXX": true, "ZLCL": true, "ZLSYJC": true, "ZLGXPD": true, "DQKXJC": true, "DQSY": true, "TXZL": true, "TXAQ": true, "TXFA": true, "YPZL": true, "YLSX": true, "SFHTE": "1054.7175", "SFBL": "3", "JSSJ": "2018/1/1", "KYJS": "0", "leaf": true}
+]}
+]},
+{
+"exid": "C", "itemname": "发电及结算", "HTBL": "13", "SBHTE": "4570.4425", "SFHTE": "3515.725", "SFBL": "10", "expanded": true, "children":[
+{"exid": "31", "itemname": "第一台机组并网发电", "HTBL": "3", "SBHTE": "1054.7175", "SGXX": true, "ZLCL": true, "ZLSYJC": true, "ZLGXPD": true, "DQKXJC": true, "DQSY": true, "TXZL": true, "TXAQ": true, "TXFA": true, "YPZL": true, "YLSX": true, "SFHTE": "1054.7175", "SFBL": "3", "JSSJ": "2017/9/1", "KYJS": "0", "leaf": true},
+{
+"exid": "32", "itemname": "25台风机并网发电", "HTBL": "3", "SBHTE": "1054.7175", "SGXX": true, "ZLCL": true, "ZLSYJC": true, "ZLGXPD": true, "DQKXJC": true, "DQSY": true, "TXZL": true, "TXAQ": true, "TXFA": true, "YPZL": true, "YLSX": true, "SFHTE": "1054.7175", "SFBL": "3", "JSSJ": "2017/10/15", "KYJS": "0", "leaf": true
+},
+{
+"exid": "33", "itemname": "水保环保消防验收", "HTBL": "2", "SBHTE": "703.145", "SGXX": true, "ZLCL": true, "ZLSYJC": true, "ZLGXPD": true, "DQKXJC": true, "DQSY": true, "TXZL": true, "TXAQ": true, "TXFA": true, "YPZL": true, "YLSX": true, "SFHTE": "703.145", "SFBL": "2", "JSSJ": "2017/12/1", "KYJS": "0", "leaf": true
+},
+{
+"exid": "34", "itemname": "工程竣工结算", "HTBL": "3", "SBHTE": "1054.7175", "SGXX": true, "ZLCL": true, "ZLSYJC": true, "ZLGXPD": true, "DQKXJC": true, "DQSY": true, "TXZL": true, "TXAQ": true, "TXFA": true, "YPZL": true, "YLSX": true, "SFHTE": "1054.7175", "SFBL": "3", "JSSJ": "2018/1/1", "KYJS": "0", "leaf": true
+},
+{
+"exid": "35", "itemname": "最终结清", "HTBL": "2", "SBHTE": "703.145", "SGXX": true, "ZLCL": true, "ZLSYJC": true, "ZLGXPD": true, "DQKXJC": true, "DQSY": true, "TXZL": true, "TXAQ": true, "TXFA": true, "YPZL": true, "YLSX": true, "SFHTE": "0", "SFBL": "0", "KYJS": "1", "leaf": true}
+]}
+]
+}
